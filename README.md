@@ -13,5 +13,5 @@ in this project we will do the following things :-
 1) (**docker ps**) to check docker container
 2) (**docker images**) to check docker images
 3) (**docker run hello-world**) to spin basic container
-4) (**docker push ubuntu**) to add docker hub repository image download to docker.
-5) 
+4) (**docker pull ubuntu**) to add docker hub repository image download to docker.
+5) (**docker build .**)
